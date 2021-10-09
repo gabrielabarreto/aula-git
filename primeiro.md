@@ -16,7 +16,7 @@
 
 ```c
 int main(void) {
-    printf("Olá mundo");
+    printf("Olá Gabriela");
     return 0;
 }
 ```
